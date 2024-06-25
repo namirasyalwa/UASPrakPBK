@@ -14,7 +14,7 @@
       <q-footer class="bg-pink text-black" height-hint="90">
         <q-toolbar>
           <q-toolbar-title>
-            Copyright © NamiraSyalwaAlifa . Teknik Informatika UIR .
+            Copyright © NamiraSyalwaAlifa . Teknik Informatika UIR.
           </q-toolbar-title>
         </q-toolbar>
       </q-footer>
