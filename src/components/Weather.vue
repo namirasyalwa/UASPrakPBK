@@ -2,7 +2,7 @@
   <q-page class="column items-center justify-center q-pa-md">
     <div class="input-section">
       <q-input v-model="newLocation" label="Enter Location" />
-      <q-btn @click="addWeatherWidget" label="Add Widget" background-color="primary" />
+      <q-btn @click="addWeatherWidget" label="SEARCH" background-color="primary" />
     </div>
     <div class="widgets-section">
       <div
@@ -38,7 +38,7 @@
         emit-value
         map-options
       />
-      <q-btn @click="navigateToTask" label="Go to Task" color="black" />
+      <q-btn @click="navigateToTask" label="Task sylw" color="black" />
     </div>
   </q-page>
 </template>
